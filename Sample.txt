@@ -1,1 +1,4 @@
 Sample file 
+
+This is a example file for creating branch
+It is used as a extra copy
